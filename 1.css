@@ -2,3 +2,21 @@
     width: 100px;
     height: 100px;
 }
+#hv_header{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+#header{
+    background-color: #95afc0;
+}
+.logo_header{
+    Object-fit : cover;
+    width: 65px;
+    height: 65px;;
+}
+#header button{
+    color: white;
+    background-color: #007bff;
+    border-radius: 5px;
+}
