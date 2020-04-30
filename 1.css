@@ -20,3 +20,8 @@
     background-color: #007bff;
     border-radius: 5px;
 }
+.thongdiep{
+    height: 300px;
+    overflow: auto !important;
+    text-align: left !important;
+}
